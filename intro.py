@@ -1,0 +1,1 @@
+#just started the project after creating the .gitignore file
